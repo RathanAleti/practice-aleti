@@ -19,3 +19,16 @@ I like Imagine Dragons because their music is very motivating and easy to connec
 
 [My Favorite Location](Nyc.jpeg)
 
+---
+
+## Places I Want to Visit
+
+Below is a table of places I would like to visit in the future.
+
+| Place | Reason | Distance | Budget ($) |
+|------|--------|----------|------------|
+| Tokyo | Technology & culture | 6700 miles | 2500 |
+| Paris | History | 4000 miles | 2200 |
+| Dubai | Modern city | 7600 miles | 3000 |
+| Rome | Ancient history | 4800 miles | 2100 |
+
