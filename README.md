@@ -32,3 +32,12 @@ Below is a table of places I would like to visit in the future.
 | Dubai | Modern city | 7600 miles | 3000 |
 | Rome | Ancient history | 4800 miles | 2100 |
 
+---
+
+## Favorite Lyrics
+
+> "I'm waking up to ash and dust, I wipe my brow and I sweat my rust"  
+*— Dan Reynolds*
+
+> "Whatever it takes, 'cause I love the adrenaline in my veins"  
+*— Dan Reynolds*
