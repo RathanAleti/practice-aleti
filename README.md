@@ -16,3 +16,6 @@ I like Imagine Dragons because their music is very motivating and easy to connec
 - Atomic Habits
 - Rich Dad Poor Dad
 - Can't Hurt Me
+
+[My Favorite Location](Nyc.jpeg)
+
