@@ -41,3 +41,26 @@ Below is a table of places I would like to visit in the future.
 
 > "Whatever it takes, 'cause I love the adrenaline in my veins"  
 *— Dan Reynolds*
+
+
+
+---
+
+## Python Code Snippet: Flattening a Nested List
+
+This Python function takes a nested list and recursively flattens it into a single list.  
+It checks whether the list is empty and whether the first element is another list, then processes each element until the entire structure is flattened.
+
+```python
+def flatten_list(nested_list):
+    if not bool(nested_list):
+        return []
+
+    if isinstance(nested_list[0], list):
+        return flatten_list(nested_list[0]) + flatten_list(nested_list[1:])
+
+    return nested_list[:1] + flatten_list(nested_list[1:])
+
+
+- 
+Here is  my Link : https://python.pieces.cloud/?p=b1fe48bde9
