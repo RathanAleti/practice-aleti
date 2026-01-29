@@ -11,3 +11,8 @@ I like Imagine Dragons because their music is very motivating and easy to connec
 1. Kid Cudi
 2. Kanye West
 3. Imagine dragons
+
+### Favorite Books
+Atomic Habits
+Rich Dad Poor Dad
+Can't Hurt Me
