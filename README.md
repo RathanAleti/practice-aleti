@@ -13,6 +13,6 @@ I like Imagine Dragons because their music is very motivating and easy to connec
 3. Imagine dragons
 
 ### Favorite Books
-Atomic Habits
-Rich Dad Poor Dad
-Can't Hurt Me
+- Atomic Habits
+- Rich Dad Poor Dad
+- Can't Hurt Me
